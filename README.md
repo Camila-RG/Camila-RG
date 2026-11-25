@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-header.svg" alt="Camila Ramos Gomes, Sistemas Embarcados e FPGA" width="100%">
+  <img src="header-moldura.svg" alt="Camila Ramos Gomes, Sistemas Embarcados e FPGA" width="100%">
 </p>
 
 Estudante de Engenharia da Computação com foco em sistemas embarcados e FPGA. Também trabalho com redes e infraestrutura de TI na VCA Construtora.
