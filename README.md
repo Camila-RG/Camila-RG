@@ -2,7 +2,7 @@
   <img src="profile-header.svg" alt="Camila Ramos Gomes, Sistemas Embarcados e FPGA" width="100%">
 </p>
 
-Estudante de Engenharia da Computação com foco em sistemas embarcados e FPGA. Também trabalho com redes e infraestrutura de TI.
+Estudante de Engenharia da Computação com foco em sistemas embarcados e FPGA. Também trabalho com redes e infraestrutura de TI na VCA Construtora.
 
 <a href="https://www.linkedin.com/in/camila-ramos-gomes-bb5652294/"><img src="linkedin-card.svg" alt="LinkedIn" height="48"></a>
 
